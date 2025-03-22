@@ -4,7 +4,7 @@
 - #### Sara Zahedian Senior Virtualization & Storage Specialist | Cloud Enthusiast
 - ####  More than 14 years experience in Virtualization & Storage,Infrastructure,Backup,Hardware & Network Services
 - #### MD Code: [My Linkedin Account](https://www.linkedin.com/in/sarazahedian/)
-- #### Intrested in SDN & Cloud Solutions
+- #### Intrested in SDN, Automation & Cloud Solutions
 - #### Link to my experience <a href="#exp"> Go to my experience </a>
   
 ## Skills
