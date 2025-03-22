@@ -5,6 +5,8 @@
 - #### Sara Zahedian Senior Virtualization & Storage Specialist | Cloud Enthusiast
 - ####  More than 14 years experience in Virtualization & Storage,Infrastructure,Backup,Hardware & Network Services
 - MD Code: [My Linkedin Account](https://www.linkedin.com/in/sarazahedian/)
+- Intrested in SDN & Cloud Solutions
+  
 ## Skills
 <details>
 <summary>Virtualization</summary>
@@ -17,6 +19,7 @@
 <li>VMware Aria Automation(vRA)</li>
 <li>VMware vSphere Replication(vRA)</li>
 <li>VMware Site Recovery Manager(SRM)</li>
+<li>Familiar with Microsoft Hyper-V, Citrix Xen & 2X </li>
 </details>
 <details>
 <summary>SAN Fabric(Storages & SAN Switches)</summary>
@@ -49,6 +52,15 @@
 </details>
 
 <details>
+<summary>Networking</summary>
+<ul>
+<li>Cisco Catalyst(2960,3560,3750,3850)</li>
+<li>Cisco Nexus (Seri 5000,9000)</li>
+<li>HPE Oneview</li>
+<li>HPE iLO Amplifier </li>
+</details>
+
+<details>
 <summary>Monitoring</summary>
 <ul>
 <li>PRTG</li>
@@ -63,4 +75,6 @@
 <details>
 <summary>Provide LOM</summary>
 </details>
+
+## Experiences
 
