@@ -1,4 +1,3 @@
-
 <img src="https://github.com/user-attachments/assets/acc3eba1-593e-42f4-b512-60e24f5fff04"/>
 
 ## Bio:
@@ -6,6 +5,7 @@
 - ####  More than 14 years experience in Virtualization & Storage,Infrastructure,Backup,Hardware & Network Services
 - MD Code: [My Linkedin Account](https://www.linkedin.com/in/sarazahedian/)
 - Intrested in SDN & Cloud Solutions
+- Link to my experience <a href="#exp"> Go to my exp </a>
   
 ## Skills
 <details>
@@ -76,5 +76,35 @@
 <summary>Provide LOM</summary>
 </details>
 
-## Experiences
+<h2 id="exp">Experiences</h2>
+<details>
+<summary>Golrang System - My Current Job</summary>
+<li>Senior Virtualization & Storage Specialist</li> 
+</ul>
+</details>
+<details>
+<summary>Butane Industrial Group </summary>
+<li>Datacenter Supervisor</li> 
+</ul>
+</details>
+
+<details>
+<summary>Afranet </summary>
+<li>Senior Virtualization & Storage Specialist</li> 
+</ul>
+</details>
+
+<details>
+<summary>SayeSaman Distribution </summary>
+<li>Head of Infrastructure & Services</li> 
+</ul>
+</details>
+<details>
+<summary>Alifard(Sunich)</summary>
+<li>IT Engineer</li> 
+</ul>
+</details>
+
+## My Github Activities
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarazahedian&show_icons=true&theme=radical)
 
