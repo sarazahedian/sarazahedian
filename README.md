@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/acc3eba1-593e-42f4-b512-60e24f5fff04"/>
+
+<img src="https://github.com/user-attachments/assets/006d41ab-436b-4b97-9ee0-b93bfcddce5f"/>
 
 ## Bio:
 - #### Sara Zahedian Senior Virtualization & Storage Specialist | Cloud Enthusiast
