@@ -19,28 +19,48 @@
 <li>VMware Site Recovery Manager(SRM)</li>
 </details>
 <details>
-<summary>Storages</summary>
+<summary>SAN Fabric(Storages & SAN Switches)</summary>
 <ul>
 <li>Dell EMC Unity(Unity300,400,480XT)</li>
 <li>HPE MSA(P2000,MSA2040,MSA2050,MSA2060)</li>
 <li>EMC(VNX2,VNX3)</li>
 <li>NAS Storages(Snap Overland,QNAP)</li>
 <li>Storage Replication (Sync,Async)</li>
+<li>Cisco MDS SAN Switches (9706,9148,9148s)</li>
+<li>HPE Brocade SAN Switch</li>
 </details>
 
 <details>
 <summary>HPE Servers</summary>
 <ul>
 <li>HPE Generation(6,7,8,9,10,10+,11)</li>
+<li>HPE ML,DL,BL Series</li>
 <li>HPE Oneview</li>
 <li>HPE iLO Amplifier </li>
 </details>
 
 <details>
-<summary>Backup & </summary>
+<summary>Backup Solutions</summary>
 <ul>
-<li>HPE Generation(6,7,8,9,10,10+,11)</li>
-<li>HPE Oneview</li>
-<li>HPE iLO Amplifier </li>
+<li>Veritas Netbackup</li>
+<li>Symantec BackupExec</li>
+<li>Veeam Backup & Replication</li>
+<li>Tape Libraries (HPE MSL2024,3040,Quantum Scalar i40/i80 </li>
+</details>
+
+<details>
+<summary>Monitoring</summary>
+<ul>
+<li>PRTG</li>
+<li>VeeamOne</li>
+</details>
+<details>
+<summary>Operating Systems</summary>
+<ul>
+<li>Windows</li>
+<li>Linux Distributions</li>
+</details>
+<details>
+<summary>Provide LOM</summary>
 </details>
 
