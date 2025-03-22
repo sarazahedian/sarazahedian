@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**sarazahedian/sarazahedian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/user-attachments/assets/acc3eba1-593e-42f4-b512-60e24f5fff04"/>
 
-Here are some ideas to get you started:
+## Bio:
+- #### Sara Zahedian Senior Virtualization & Storage Specialist | Cloud Enthusiast
+- ####  More than 14 years experience in Virtualization & Storage,Infrastructure,Backup,Hardware & Network Services
+- MD Code: [My Linkedin Account](https://www.linkedin.com/in/sarazahedian/)
+## Skills
+<details>
+<summary>Virtualization</summary>
+<ul>
+<li>VMware vSphere</li>
+<li>VMware vSAN</li>
+<li>VMware Aria Operations(vRealize Operation Manage(vROps)) </li>
+<li>VMware Aria Operations for Logs(vRealize Log Insight(vRLI))</li>
+<li>VMware Aria Operations for Networks(VMware vRealize Network)</li>
+<li>VMware Aria Automation(vRA)</li>
+<li>VMware vSphere Replication(vRA)</li>
+<li>VMware Site Recovery Manager(SRM)</li>
+</details>
+<details>
+<summary>Storages</summary>
+<ul>
+<li>Dell EMC Unity(Unity300,400,480XT)</li>
+<li>HPE MSA(P2000,MSA2040,MSA2050,MSA2060)</li>
+<li>EMC(VNX2,VNX3)</li>
+<li>NAS Storages(Snap Overland,QNAP)</li>
+<li>Storage Replication (Sync,Async)</li>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>HPE Servers</summary>
+<ul>
+<li>HPE Generation(6,7,8,9,10,10+,11)</li>
+<li>HPE Oneview</li>
+<li>HPE iLO Amplifier </li>
+</details>
+
+<details>
+<summary>Backup & </summary>
+<ul>
+<li>HPE Generation(6,7,8,9,10,10+,11)</li>
+<li>HPE Oneview</li>
+<li>HPE iLO Amplifier </li>
+</details>
+
